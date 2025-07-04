@@ -1,3 +1,4 @@
+!pip install python-docx
 # Upload, Read, Chunk, and Print Word Document Content (NO NLTK version)
 from google.colab import files
 from docx import Document
