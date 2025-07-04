@@ -1,4 +1,5 @@
 !pip install python-docx
-Libraries - numpy
+AutoTokenizer
+numpy
 Sentence transformers
 !pip install faiss-cpu -q
